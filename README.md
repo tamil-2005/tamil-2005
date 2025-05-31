@@ -1,5 +1,14 @@
-# 💫 About Me:
-- 🔭 I’m currently working on ...<br>- 🌱 I’m currently learning ...<br>- 👯 I’m looking to collaborate on ...<br>- 🤔 I’m looking for help with ...<br>- 💬 Ask me about ...<br>- 📫 How to reach me: ...<br>- 😄 Pronouns: ...<br>- ⚡ Fun fact: ...
+## 💫 About Me:
+
+- 🔍 I’m currently searching for **job opportunities in software and web development**, aiming to apply my skills in real-world environments.
+- 🔭 I’m working on a **college project focused on budget tracking with spender behavior analysis and smart financial suggestions**, using **Java, Spring Boot, and MySQL** for the backend.
+- 🌱 I’m currently learning **advanced Java concepts, Spring Boot development, and exploring new web technologies** to improve my full-stack development skills.
+- 👯 I’m looking to collaborate on **real-world web or software development projects**, especially those involving **responsive design, backend integration, and user experience improvement**.
+- 🤔 I’m looking for help with **optimizing backend performance and mastering design patterns in Java applications**.
+- 💬 Ask me about **HTML, CSS, JavaScript, Spring Boot, or tips on building user-friendly web apps** — I love sharing what I know!
+- 📫 How to reach me: ** tamilff2005@gmail.com **
+- ⚡ Fun fact: I love building things from scratch — **most of my projects are entirely self-made**, which helps me learn deeper and solve real-world coding problems efficiently!
+
 
 
 ## 🌐 Socials:
